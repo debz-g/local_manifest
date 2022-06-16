@@ -8,7 +8,8 @@
     <project path="vendor/xiaomi/vayu" name="debz-g/android_vendor_xiaomi_vayu.git" remote="github" revision="arrow-12.1" /> -->
 
     <project path="device/xiaomi/vayu" name="acastillorobles77/android_device_xiaomi_vayu_arrow.git" remote="github" revision="lineage-19.x" />
-     <project path="device/xiaomi/sm8150-common" name="debz-g/android_device_xiaomi_sm8150-common.git" remote="github" revision="lineage-19.1" />
-    <project path="kernel/xiaomi/vayu" name="acastillorobles77/android_kernel_xiaomi_vayu_arrow.git" remote="github" revision="arrow-12.0" />
-    <project path="vendor/xiaomi/vayu" name="acastillorobles77/android_vendor_xiaomi_vayu.git" remote="github" revision="arrow-12.0" />
+    <project path="device/xiaomi/sm8150-common" name="debz-g/android_device_xiaomi_sm8150-common.git" remote="github" revision="lineage-19.1" />
+    <project path="kernel/xiaomi/vayu" name="PixelExperience-Devices/kernel_xiaomi_vayu.git" remote="github" revision="twelve" />
+    <project path="vendor/xiaomi/vayu" name="ArrowOS-Devices/android_vendor_xiaomi_vayu.git" remote="github" revision="arrow-12.1" />
+    
 </manifest>
